@@ -1,0 +1,25 @@
+.cardslist {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    widows: 100%;
+    justify-content: center;
+  }
+
+
+
+.cards {
+    background-color: #E3E3B5;
+    border-radius: 10%;
+    margin: 20px;
+    width: 40%;
+    text-align: left;
+  }
+
+  .title {
+    text-align: center;
+    font-size: 30px;
+    color: #141412;
+    text-shadow: 3px, 3px, 7px #fff;
+    text-decoration-line: underline;
+  }

@@ -6,3 +6,10 @@
   text-shadow: 1px 1px 5px #fff;
 }
 /* write your parent styles in here for your App.js */
+.listItem {
+  color: #443e3e;
+  color: rgb(250, 250, 250);
+  padding: 0px 0px 0px 20px;
+  font-size: 20px;
+  text-shadow: 1px 1px 5px #fff;
+} 
